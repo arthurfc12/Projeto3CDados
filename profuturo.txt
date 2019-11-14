@@ -1,0 +1,3 @@
+Tentar outros modelos
+Matriz de confusão
+Analisar as nossas classes - valor parecido nas classes - deixar no relatório
