@@ -1,3 +1,4 @@
-Tentar outros modelos
-Matriz de confusão
-Analisar as nossas classes - valor parecido nas classes - deixar no relatório
+- Tentar outros modelos
+- Matriz de confusão
+- Analisar as nossas classes
+- Fazer mais markdowns com temas da rubrica
