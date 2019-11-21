@@ -9,7 +9,7 @@ Alunos:
   
 Professores:
   - Maria Kelly Venezuela - mariakv@insper.edu.br
-  - Maciel Calebe Vidal - 
+  - Maciel Calebe Vidal - macielcv@insper.edu.br
 
 
 Objetivo:
